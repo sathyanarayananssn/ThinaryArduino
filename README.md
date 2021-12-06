@@ -4,7 +4,7 @@
 You can buy our product at this website:
 https://thinaryelectronic.aliexpress.com
 
-https://raw.githubusercontent.com/Thinary/ThinaryArduino/master/Thinary-boards-index/package_thinary_index.json
+https://raw.githubusercontent.com/sathyanarayananssn/ThinaryArduino/master/Thinary-boards-index/package_thinary_index.json
 
 1. Open Arduino IDE  ----->  File ------->   Preferences.
 
