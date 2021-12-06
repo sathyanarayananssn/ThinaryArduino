@@ -21,7 +21,7 @@ nona4808.build.board=AVR_NANO_EVERY
 nona4808.build.core=arduino
 nona4808.build.variant=nona4808
 nona4808.build.text_section_start=.text=0x0
-nona4808.build.extra_flags={build.328emulation} -DMILLIS_USE_TIMERB2 -DNO_EXTERNAL_I2C_PULLUP
+nona4808.build.extra_flags={build.328emulation} -DMILLIS_USE_TIMERB1 -DNO_EXTERNAL_I2C_PULLUP
 #nona4808.build.extra_flags=-B{runtime.tools.atpack.path}/gcc/dev/{build.mcu}
 
 nona4808.bootloader.tool=avrdude
