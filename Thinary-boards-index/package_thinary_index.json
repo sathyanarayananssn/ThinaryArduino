@@ -11,7 +11,7 @@
       "platforms": [
         {
           "name": "Thinary AVR Boards",
-          "architecture": "avr",
+          "architecture": "megaavr",
           "version": "1.0.0",
           "category": "Thinary",
           "url": "https://github.com/Thinary/ThinaryArduino/releases/download/1.0.0/thinary-megaavr-1.0.0.zip",
